@@ -22,7 +22,7 @@ Chuck's reasoning:
 
 ```bash
 # Install globally with npm
-npm install -g @google/generative-ai-cli
+npm install -g @google/gemini-cli
 ```
 
 **Permission error?** Run with sudo:
